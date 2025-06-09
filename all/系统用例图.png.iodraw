@@ -442,14 +442,14 @@
         <mxCell id="hBw9qma76SKnUJabvDH5-2" value="挂号管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hBw9qma76SKnUJabvDH5-3" value="挂号管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="hBw9qma76SKnUJabvDH5-3" value="分诊管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-4" value="挂号管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="370" y="170" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-5" value="挂号管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="20" height="110" as="geometry" />
+          <mxGeometry x="500" y="170" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
