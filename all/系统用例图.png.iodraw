@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uM2BwVaLkS3Afl6FHDPG" name="第 7 页">
-    <mxGraphModel dx="689" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,6 +468,9 @@
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-8" value="医疗报销模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="650" y="170" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hBw9qma76SKnUJabvDH5-13" value="挂号管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-20" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
