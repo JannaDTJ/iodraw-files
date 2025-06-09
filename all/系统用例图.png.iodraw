@@ -565,6 +565,9 @@
         <mxCell id="hBw9qma76SKnUJabvDH5-42" value="对接医保局接口" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="690" y="-20" width="20" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="hBw9qma76SKnUJabvDH5-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="hBw9qma76SKnUJabvDH5-43" target="hBw9qma76SKnUJabvDH5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-43" value="报销查询与报表统计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="-50" width="20" height="140" as="geometry" />
         </mxCell>
