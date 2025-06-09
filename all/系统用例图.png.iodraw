@@ -525,7 +525,7 @@
         <mxCell id="hBw9qma76SKnUJabvDH5-25" value="分诊信息维护与更新" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="-50" width="20" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="hBw9qma76SKnUJabvDH5-33" value="挂号管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="hBw9qma76SKnUJabvDH5-33" value="获取导诊信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="470" y="-20" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
