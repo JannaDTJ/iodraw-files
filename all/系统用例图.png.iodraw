@@ -512,10 +512,8 @@
         <mxCell id="hBw9qma76SKnUJabvDH5-23" value="病情评估与分诊决策" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="-27" width="20" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="hBw9qma76SKnUJabvDH5-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="hBw9qma76SKnUJabvDH5-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="170" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="hBw9qma76SKnUJabvDH5-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="hBw9qma76SKnUJabvDH5-24" target="hBw9qma76SKnUJabvDH5-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-24" value="分诊结果通知与确认" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="370" y="-27" width="20" height="140" as="geometry" />
