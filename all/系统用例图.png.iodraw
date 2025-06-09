@@ -479,7 +479,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-15" value="现场挂号" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="135" y="-20" width="20" height="110" as="geometry" />
+          <mxGeometry x="160" y="-20" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="hBw9qma76SKnUJabvDH5-17">
           <mxGeometry relative="1" as="geometry">
@@ -487,7 +487,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-17" value="退号" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="185" y="-20" width="20" height="110" as="geometry" />
+          <mxGeometry x="200" y="-20" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="hBw9qma76SKnUJabvDH5-19">
           <mxGeometry relative="1" as="geometry">
