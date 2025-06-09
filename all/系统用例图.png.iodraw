@@ -577,6 +577,9 @@
         <mxCell id="hBw9qma76SKnUJabvDH5-50" value="患者提交拍片申请" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="570" width="20" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="hBw9qma76SKnUJabvDH5-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="hBw9qma76SKnUJabvDH5-51" target="hBw9qma76SKnUJabvDH5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-51" value="拍片技师执行拍片操作" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="570" width="20" height="160" as="geometry" />
         </mxCell>
