@@ -436,8 +436,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hBw9qma76SKnUJabvDH5-1" value="医疗系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="hBw9qma76SKnUJabvDH5-1" value="医疗系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
