@@ -464,7 +464,7 @@
           <mxGeometry x="300" y="410" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-7" value="取药管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="460" y="510" width="20" height="110" as="geometry" />
+          <mxGeometry x="610" y="410" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="hBw9qma76SKnUJabvDH5-8" target="hBw9qma76SKnUJabvDH5-1">
           <mxGeometry relative="1" as="geometry" />
@@ -587,7 +587,7 @@
           <mxGeometry x="330" y="570" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="hBw9qma76SKnUJabvDH5-55" value="患者查看拍片报告" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="370" y="570" width="20" height="110" as="geometry" />
+          <mxGeometry x="370" y="570" width="20" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
