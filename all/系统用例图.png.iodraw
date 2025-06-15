@@ -718,8 +718,14 @@
         <mxCell id="hupsWZWFhM6n61QZs-JU-10" value="协助医生诊断" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="920" y="570" width="20" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="hupsWZWFhM6n61QZs-JU-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hupsWZWFhM6n61QZs-JU-11" target="hupsWZWFhM6n61QZs-JU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hupsWZWFhM6n61QZs-JU-11" value="健康教育" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="960" y="570" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hupsWZWFhM6n61QZs-JU-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hupsWZWFhM6n61QZs-JU-12" target="hupsWZWFhM6n61QZs-JU-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hupsWZWFhM6n61QZs-JU-12" value="患者查看病例" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="570" width="20" height="110" as="geometry" />
