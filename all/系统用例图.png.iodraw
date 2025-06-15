@@ -675,6 +675,15 @@
         <mxCell id="SbZHkvvIf-_ZlQvpagke-2" value="医生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="180" y="450" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SbZHkvvIf-_ZlQvpagke-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SbZHkvvIf-_ZlQvpagke-5" target="SbZHkvvIf-_ZlQvpagke-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SbZHkvvIf-_ZlQvpagke-5" value="药师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbZHkvvIf-_ZlQvpagke-6" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
