@@ -670,6 +670,9 @@
         <mxCell id="hupsWZWFhM6n61QZs-JU-3" value="就诊签到" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="650" y="570" width="20" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="hupsWZWFhM6n61QZs-JU-4" value="取药管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="20" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
