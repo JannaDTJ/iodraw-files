@@ -676,11 +676,20 @@
         <mxCell id="hupsWZWFhM6n61QZs-JU-3" value="就诊签到" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="650" y="570" width="20" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="hupsWZWFhM6n61QZs-JU-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hupsWZWFhM6n61QZs-JU-4" target="hupsWZWFhM6n61QZs-JU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hupsWZWFhM6n61QZs-JU-4" value="医生登记患者信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="690" y="570" width="20" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="hupsWZWFhM6n61QZs-JU-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hupsWZWFhM6n61QZs-JU-5" target="hupsWZWFhM6n61QZs-JU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hupsWZWFhM6n61QZs-JU-5" value="诊断病情" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="570" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hupsWZWFhM6n61QZs-JU-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hupsWZWFhM6n61QZs-JU-6" target="hupsWZWFhM6n61QZs-JU-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hupsWZWFhM6n61QZs-JU-6" value="开具医嘱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="770" y="570" width="20" height="110" as="geometry" />
