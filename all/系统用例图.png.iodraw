@@ -694,8 +694,8 @@
         <mxCell id="hupsWZWFhM6n61QZs-JU-11" value="健康教育" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="960" y="570" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hupsWZWFhM6n61QZs-JU-12" value="取药管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="540" y="530" width="20" height="110" as="geometry" />
+        <mxCell id="hupsWZWFhM6n61QZs-JU-12" value="患者查看病例" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="570" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
