@@ -661,7 +661,7 @@
         <mxCell id="hBw9qma76SKnUJabvDH5-81" value="系统管理员管理用户权限" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="560" y="570" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="hupsWZWFhM6n61QZs-JU-1" value="取药管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="hupsWZWFhM6n61QZs-JU-1" value="就诊管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="410" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
